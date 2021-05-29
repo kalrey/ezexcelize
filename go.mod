@@ -1,4 +1,4 @@
-module ezexcelize
+module github.com/kalrey/ezexcelize
 
 go 1.15
 require(
